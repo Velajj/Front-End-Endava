@@ -10,7 +10,6 @@
 
 .ws-input::placeholder {
   text-transform: uppercase;
-  font-family: monospace;
 }
 
 .ws-input:focus {
